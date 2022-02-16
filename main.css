@@ -1,0 +1,71 @@
+body{
+    margin-right: 2%;
+    margin-left: 2%;
+    
+}
+
+h1{
+    font-family: fantasy;
+}
+
+h3{
+    font-family: monospace;
+}
+
+code {
+    font-family: Consolas,"courier new";
+    color: green;
+    background-color: #f1f1f1;
+    padding: 2px;
+    font-size: 105%;
+}
+
+#hadith{
+    width: 90%;
+    height: 100%;
+}
+
+.input-group-addon{
+    background-color: white;
+    border-color: white;
+}
+
+
+
+#container{
+    height: 200px;
+    width: 500px;
+    border: 10px solid #926981;
+    margin: auto;
+    margin-top: 50px;
+    background-color: whitesmoke;
+}
+
+#tasbeeh{
+    text-align: center;
+    font-family: serif;
+}
+
+#number{
+    height: 25px;
+    width: 250px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+}
+
+#increment{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+#decrement{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
